@@ -1,17 +1,23 @@
-# AutoTypo
-A CodeTantra killer app
+# CodeTantra Killer App
+
+Welcome to the CodeTantra killer app! This application is designed to make your coding experience smoother and more enjoyable.
+
+## Getting Started
+
+To use the app, follow these simple steps:
+
+1. **Install Dependencies:** 
+   First, ensure you have `streamlit` and `pyautogui` installed. You can do this by running the following commands in your command line interface (cmd):
 
 
-To use the app, you have to first run two commands in your cmd:
 
-``pip install streamlit``
-
-``pip install pyautogui``
+2. **Run the App:** 
+Once you have installed the dependencies, open your terminal in Visual Studio Code and run the following command:
 
 
-Finally, open the terminal in V.S. code and run:
 
-``streamlit run Autotypo.py``
+3. **Enjoy!:** 
+You're all set! Have a blast using this app and make your coding sessions even more productive and enjoyable!
 
 
-Have a blast using this and enjoyyyy!!!
+Happy coding! 🚀
