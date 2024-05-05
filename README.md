@@ -9,10 +9,16 @@ To use the app, follow these simple steps:
 1. **Install Dependencies:** 
    First, ensure you have `streamlit` and `pyautogui` installed. You can do this by running the following commands in your command line interface (cmd):
 
+``pip install streamlit``
+
+``pip install pyautogui``
+
 
 
 2. **Run the App:** 
 Once you have installed the dependencies, open your terminal in Visual Studio Code and run the following command:
+
+``streamlit run Autotypo.py``
 
 
 
