@@ -1,9 +1,10 @@
+pip install pyautogui
+
 import streamlit as st
 import auto_typer
 import remove_comments as rc
 import remove_indentation as ri
-import os
-print(os.path.dirname(st.__file__))
+
 
 st.title("CodeTantra Killer")
 
