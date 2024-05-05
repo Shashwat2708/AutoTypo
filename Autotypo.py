@@ -1,4 +1,3 @@
-pip install pyautogui
 
 import streamlit as st
 import auto_typer
